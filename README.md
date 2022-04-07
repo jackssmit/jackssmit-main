@@ -1,11 +1,10 @@
-<img src="https://i.ibb.co/xf0ht6z/shutterstock-753972046-350x233.jpg">
+<img src="https://abu.abustream.workers.dev/0:/abu-modified.png">
 
 ## Info
 
-Yello There, I'm Jackssmit , 21 Y.O. Friendly Neighbourhood Programmer From Spain.
+Yello There, I'm Jackssmit , 21 Y.O. Friendly Programmer From Spain.
 
-- :computer: I'm currently working on a "secret" project.
-- :school: I'm currently learning : kotlin
+
 
 ## Where to find me
 
